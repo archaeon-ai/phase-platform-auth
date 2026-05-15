@@ -20,7 +20,7 @@ pip install phase-platform-auth
 Until published to PyPI, install from GitHub:
 
 ```bash
-pip install "phase-platform-auth @ git+https://github.com/kenwilliford/phase-platform-auth"
+pip install "phase-platform-auth @ git+https://github.com/archaeon-ai/phase-platform-auth"
 ```
 
 ## Usage

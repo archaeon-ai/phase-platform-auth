@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/kenwilliford/phase-platform-auth"
-Source = "https://github.com/kenwilliford/phase-platform-auth"
-Issues = "https://github.com/kenwilliford/phase-platform-auth/issues"
+Homepage = "https://github.com/archaeon-ai/phase-platform-auth"
+Source = "https://github.com/archaeon-ai/phase-platform-auth"
+Issues = "https://github.com/archaeon-ai/phase-platform-auth/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/phase_platform_auth"]
